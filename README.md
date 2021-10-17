@@ -1,4 +1,4 @@
-# my-avatars
+# [my-avatars](https://www.npmjs.com/package/my-avatars)
 
 Generate unique avatars of off your own image files!
 
@@ -30,4 +30,4 @@ If all of this doesn't make sense. Check out the [example](#example)
 
 ## Example
 
-Check [main.js](./main.js), to run the example use `npm run dev`.
+Check [main.js](./main.js), to run the example use `npm run dev`. Or read this [article]()
