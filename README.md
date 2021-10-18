@@ -52,4 +52,4 @@ If all of this doesn't make sense. Check out the [example](#example)
 
 ## Example
 
-Check [main.js](./main.js), to run the example use `npm run dev`. Or read this [article](https://madco.me/generate-8-unique-avatar-faces-from-40-lines-of-easy-code)
+Check [main.js](./main.js), to run the example use `npm run dev`. Or read this [article](https://madco.me/generate-16-unique-avatar-faces-from-40-lines-of-easy-code)
