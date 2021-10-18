@@ -2,7 +2,7 @@ import { Generator, Layer, Item } from './lib'
 import './style.css'
 
 const faceItems = [
-  new Item('./images/face1.png'),
+  new Item('./images/face1.png', {}, false),
   new Item('./images/face2.png'),
 ]
 
