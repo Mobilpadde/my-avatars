@@ -10,7 +10,7 @@ Generate unique avatars of off your own image files!
     - `opts`
       - `x`: `Number` - x-coord to place the image
       - `y`: `Number` - y-coord to place the image
-      - `check`: `Boolean` - check if the image can be found
+      - `check`: `Boolean` - check if the image can be found - required to `replace`-colors
       - `replace`: `Array` of `Object`'s - filled with colors to replace from and to
         - `from`: `String` - color to replace from, in the format of `r,g,b` - e.g. `128,128,128`
         - `to`: `String` - color to replace to, in the format of `r,g,b` - e.g. `128,128,128`
