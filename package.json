@@ -19,5 +19,11 @@
       "import": "./dist/my-avatars.es.js",
       "require": "./dist/my-avatars.umd.js"
     }
-  }
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "avatar",
+    "avatar generator",
+    "my avatars"
+  ]
 }
